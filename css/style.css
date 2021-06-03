@@ -1,0 +1,21 @@
+html {
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('../imgs/back1.jpg') no-repeat;
+    background-size: cover;
+}
+
+#box { 
+    width: 200px; 
+    height: 200px; 
+    position: absolute; 
+    background: url('../imgs/lua-cheia.png'); 
+    background-size: contain;
+    border-radius: 50%;
+    left: 120px; 
+    top: 40px; 
+}
